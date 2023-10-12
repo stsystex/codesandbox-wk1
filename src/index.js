@@ -61,3 +61,6 @@ console.log(consProfile.p_name);
 const { p_name, p_age } = consProfile;
 const messageProf2 = "名前は${p_name}です。年齢は${p_age}です。";
 console.log(messageProf2);
+console.log(p_name);
+
+co
